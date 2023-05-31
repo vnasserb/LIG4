@@ -1,9 +1,3 @@
-{-
-Paradigmas de Programação - 2022.2
-Vinícius Nasser Bernaldo - RA: 11201722677
-Projeto de Programação: Jogo LIG 4 em Haskell
--}
-
 import Control.Exception
 import System.IO
 import System.IO.Error
