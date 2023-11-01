@@ -22,8 +22,8 @@ Para executar o jogo, siga estas etapas:
 3. Execute o programa Haskell.
 
 ```bash
-ghc -o lig4 lig4.hs
-./lig4
+ghc -o LIG4 LIG4.hs
+./LIG4
 ```
 
 ## Requisitos
