@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de um arquivo README para um jogo de LIG4 em Haskell que requer o cadastro de jogadores com dados registrados em um arquivo `.txt`:
-
 # README - Jogo de LIG4 em Haskell
 
 ## Descrição do Jogo
